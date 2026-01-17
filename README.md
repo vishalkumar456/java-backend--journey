@@ -10,6 +10,7 @@ I'm learning Java Backend development step by step.
 
 ## 📅 Progress Log
 - Day 1: Java setup & first program ✅
+- Day 2: java basics & related program ✅
 
 ## 🎯 Goal
 Become a strong Java Backend Developer.
